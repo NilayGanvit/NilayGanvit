@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NilayGanvit
-- 👀 I’m interested in Programming, Dev and Cybersecurity
+- 👀 I’m interested in Analytics, Cybersecurity and Dev.
 - 💞️ I’m looking to collaborate on Algorithmic Trading and Blockchain
 - 📫 How to reach me: nilayganvit252@gmail.com
