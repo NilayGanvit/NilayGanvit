@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NilayGanvit
+- 👋 Hi, I’m @NilayGanvit, an IIT Indore CSE graduate
 - 👀 I’m interested in Quantitative Analytics, Cybersecurity and Dev.
 - 💞️ I’m looking to collaborate on Algorithmic Trading and Blockchain
 - 📫 How to reach me: nilayganvit252@gmail.com
