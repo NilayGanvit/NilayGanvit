@@ -44,10 +44,6 @@ Previously, I worked as a **Member Technical Staff at Oracle**, where I optimize
 
 **Systems:** Linux, UNIX, Windows, Solaris | ARM, x86-64, SPARC, RISC
 
-## 📈 GitHub Stats
-
-![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilayGanvit&show_icons=true&theme=radical)
-
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on:
