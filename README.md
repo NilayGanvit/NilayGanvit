@@ -6,21 +6,15 @@
 
 ## 🎓 About Me
 
-I'm a Computer Science graduate from **IIT Indore** with a passion for building robust systems and exploring the intersection of finance and technology. Currently pursuing a **Master's in Financial Engineering** at WorldQuant University, I bring hands-on experience in systems programming, quantitative research, and full-stack development.
+I'm a Computer Science graduate from **IIT Indore** with a passion for building robust systems and exploring the intersection of finance and technology. Currently pursuing a **Master's in Financial Engineering** at WorldQuant University, I bring hands on experience in systems programming, quantitative research, and full stack development.
 
-Previously, I worked as a **Member Technical Staff at Oracle**, where I optimized database performance on ARM processors and contributed to Oracle Autonomous Database infrastructure supporting $3.2B in revenue.
+Previously, I worked as a **Member Technical Staff at Oracle**, where I optimized database performance on ARM processors and contributed to Oracle Autonomous Database infrastructure.
 
 ## 💼 Professional Experience
 
 **Member Technical Staff** @ Oracle (June 2024 - Oct 2025)
-- Optimized multiplication operations by 10% using ARM NEON SIMD intrinsics
-- Developed portable compute layers enabling cross-platform compatibility across 5 chip architectures
-- Built RAG-based AI Agent for automated memory leak detection
 
 **Quantitative Research Consultant** @ WorldQuant (Sep 2023 - June 2024)
-- Created 50+ unique alphas across diverse trading strategies
-- Validated 15+ quantitative strategies through rigorous 10-year backtesting
-- Developed genetic algorithm approach for alpha refinement
 
 ## 🔬 Research Interests
 
@@ -37,23 +31,6 @@ Previously, I worked as a **Member Technical Staff at Oracle**, where I optimize
 - **Winner** - Blue Yonder's Supply Chain Challenge, Inter IIT 2022
 - **Lead** - ConsenSys Metamask Snaps Contingent, Inter IIT 2023
 - Solved **1000+ DSA problems** across competitive programming platforms
-
-## 🚀 Featured Projects
-
-### [Algo-trading](https://github.com/NilayGanvit/Algo-trading)
-Quantitative trading strategies and backtesting framework using Python, featuring statistical arbitrage and machine learning models for alpha generation.
-
-### [Metamask-Snaps](https://github.com/DaemonLab/Metamask-Snaps)
-TypeScript-based MetaMask Snaps development for extending Web3 wallet functionality with custom features and blockchain integrations.
-
-### [Computer Networks Lab](https://github.com/NilayGanvit/Computer-Networks-Lab-CS-356)
-Implementation of network protocols, SDN path computation, and service provisioning using Python, RYU controller, and Mininet.
-
-### [Parallel Computing Lab](https://github.com/NilayGanvit/Parallel-Computing-Lab-CS-359)
-High-performance computing implementations using MPI, OpenMP, and CUDA for parallel algorithm optimization.
-
-### [Hostel Management System](https://github.com/NilayGanvit/Hostel-Management-System)
-Full-stack web application for hostel administration with real-time room allocation and student management features.
 
 ## 🛠️ Technical Stack
 
