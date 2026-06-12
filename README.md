@@ -12,7 +12,7 @@ Previously, I worked as a **Member Technical Staff at Oracle**, where I optimize
 
 ## 💼 Professional Experience
 
-**Software Developer** @ Servicenow (2025 - present)
+**Software Developer** @ Servicenow (2026 - present)
 
 **Member Technical Staff** @ Oracle (June 2024 - 2025)
 
