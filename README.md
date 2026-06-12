@@ -12,7 +12,9 @@ Previously, I worked as a **Member Technical Staff at Oracle**, where I optimize
 
 ## 💼 Professional Experience
 
-**Member Technical Staff** @ Oracle (June 2024 - Oct 2025)
+**Software Developer** @ Servicenow (2025 - present)
+
+**Member Technical Staff** @ Oracle (June 2024 - 2025)
 
 **Quantitative Research Consultant** @ WorldQuant (Sep 2023 - June 2024)
 
